@@ -11,6 +11,7 @@ Cinefy is a movie review platform allowing users to browse movies, view details,
 ### 1. Backend
 *Ensure MongoDB is running locally on port 27017.*
 
+```bash
 cd backend
 npm install
 npm run start:dev
@@ -19,6 +20,7 @@ npm run start:dev
 ### 2. Frontend
 *Open a new terminal window.*
 
+```bash
 cd frontend
 npm install
 npm run dev
