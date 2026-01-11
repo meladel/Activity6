@@ -44,7 +44,7 @@ function MovieList({ onSelectMovie }) {
   return (
     <div className='movie-list'>
       <div className='movie-list-header'>
-        <h2>Now Showing</h2>
+        <h2>Movies</h2>
       </div>
       
       {movies.length === 0 ? (
